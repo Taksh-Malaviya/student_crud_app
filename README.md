@@ -1,16 +1,32 @@
-# exam_app
+# Students Portal App🙍🏻
 
-A new Flutter project.
+A Flutter application to manage student data using CRUD (Create, Read, Update, Delete) operations. This app does not use a database and instead relies on an in-memory list for storing student data.
 
-## Getting Started
+## Features🚀
 
-This project is a starting point for a Flutter application.
+- **Create**: Add new student records.
+- **Read**: Display a list of all students.
+- **Update**: Edit existing student details.
+- **Delete**: Remove student records from the list.
+- **No Database**: Utilizes an in-memory list to store and manage data.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation✌️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To set up and run the Students Portal app, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**
+
+   ```bash
+   git clone https:
+
+ ## Usage😎
+
+ - **Add Student**: Access the "Add Student" screen to input new student details.
+ - **View Students**: The main screen lists all students. Tap a student to view more details.
+ - **Update Student**: On the student details page, update the information and save changes..
+ - **Delete Student**: Swipe left on a student's list item to delete it.
+
+
+ ## Screenshot
+ 
+ 
